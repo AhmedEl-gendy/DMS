@@ -1,0 +1,99 @@
+{
+  "Common": {
+    "AppTitle": "النظام",
+    "Search": "بحث",
+    "EnterSearchTerm": "أدخل رقم الفاتورة او اسم العميل للبحث",
+    "Success": "نجاح",
+    "AddedSuccessfully": "تم الإضافة بنجاح",
+    "Error": "خطأ",
+    "LoadError": "خطأ في تحميل البيانات",
+    "AddFailed": "فشل في الإضافة",
+    "Next": "التالي",
+    "Back": "العودة",
+    "CodeId": "الرمز/المعرف",
+    "Name": "الاسم",
+    "Description": "الوصف",
+    "Size": "المقاس",
+    "Color": "اللون",
+    "Price": "السعر",
+    "StockQuantity": "الكمية في المخزون",
+    "Submit": "إرسال",
+    "Cancel": "إلغاء",
+    "Images": "الصور",
+    "InStock": "متوفر",
+    "OutOfStock": "غير متوفر",
+    "PreviewDetails": "عرض التفاصيل",
+    "Confirmation": "تأكيد",
+    "CancelConfirm": "هل أنت متأكد من إلغاء التعديلات؟",
+    "InvalidFile": "الملف غير صالح",
+    "UpdateSuccess": "تم التحديث بنجاح",
+    "UpdateError": "خطأ في التحديث",
+    "Save": "حفظ",
+    "Delete": "حذف",
+    "Edit": "تعديل",
+    "BasicInfo": "المعلومات الأساسية",
+    "WillBeDeleted": "سيتم حذف هذا العنصر",
+    "NotFound": "غير موجود",
+    "NotFoundMessage": "لم يتم العثور على العنصر المطلوب.",
+    "BackToList": "العودة إلى القائمة",
+    "Yes": "نعم",
+    "No": "لا"
+  },
+  "Errors": {
+    "Required": "مطلوب.",
+    "Email": "أدخل بريد إلكتروني صالح.",
+    "MinLength": "يجب أن يكون لديك {{length}} حرف على الأقل.",
+    "Invalid": "قيمة غير صالحة."
+  },
+  "Header": { "Home": "الرئيسية", "Profile": "الصفحة الشخصية" },
+  "Footer": {
+    "Message": "النظام تم تطويره بواسطة م.أحمد الجندي."
+  },
+  "Home": {
+    "Welcome": "مرحباً",
+    "Categories": {
+      "Rental": "التاجير",
+      "Sales": "المبيعات",
+      "Dressmaking": "الخياطة",
+      "RentalDescription": "التاجير",
+      "SalesDescription": "المبيعات",
+      "DressmakingDescription": "الخياطة",
+      "Dresses": "الفساتين",
+      "DressesDescription": "الفساتين"
+    }
+  },
+  "Rental": {
+    "CustomerName": "اسم العميل",
+    "CustomerPhone": "رقم هاتف العميل",
+    "Deposit": "العربون",
+    "Cost": "التكلفة",
+    "BookingDate": "تاريخ الفاتورة",
+    "DeliveryDate": "تاريخ التسليم",
+    "ReturnDate": "تاريخ الإستلام",
+    "Status": "الحالة",
+    "Unpaid": "غير مدفوع",
+    "Paid": "مدفوع",
+    "Cancelled": "ملغي",
+    "SelectStatus": "اختر الحالة",
+    "StatusRequired": "الحالة مطلوبة",
+    "Submit": "إرسال",
+    "AddRentalInvoice": "إضافة فاتورة",
+    "AddRentalInvoiceDescription": "إضافة فاتورة",
+    "Invoices": "الفواتير",
+    "InvoicesDescription": "الفواتير"
+  },
+  "Dress": {
+    "Cards": {
+      "AddDress": "إضافة فستان",
+      "AddDressDescription": "إضافة فستان",
+      "Dresses": "الفساتين",
+      "DressesDescription": "الفساتين"
+    },
+    "SizesAndColors": " المقاسات والألوان",
+    "Review": "المراجعة",
+    "RemoveSize": "حذف المقاس",
+    "RemoveColor": "حذف اللون",
+    "AddColor": "إضافة لون",
+    "AddSize": "إضافة مقاس"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "Common": {
+    "AppTitle": "System",
+    "Search": "Search",
+    "EnterSearchTerm": "Enter the invoice number or customer name to search",
+    "Success": "Success",
+    "AddedSuccessfully": "Added Successfully",
+    "Error": "Error",
+    "LoadError": "Error loading data",
+    "AddFailed": "Add Failed",
+    "Next": "Next",
+    "Back": "Back",
+    "CodeId": "Code Id",
+    "Name": "Name",
+    "Description": "Description",
+    "Size": "Size",
+    "Color": "Color",
+    "Price": "Price",
+    "StockQuantity": "Stock Quantity",
+    "Submit": "Submit",
+    "Cancel": "Cancel",
+    "Images": "Images",
+    "InStock": "in stock",
+    "OutOfStock": "out of stock",
+    "PreviewDetails": " Preview Details",
+    "Confirmation": "Confirmation",
+    "CancelConfirm": "Are you sure you want to cancel the edits?",
+    "InvalidFile": "Invalid file",
+    "UpdateSuccess": "Updated Successfully",
+    "UpdateError": "Error on updating",
+    "Save": "Save",
+    "Delete": "Delete",
+    "Edit": "Edit",
+    "BasicInfo": "Basic Information",
+    "WillBeDeleted": "This item will be deleted",
+    "NotFound": "Not Found",
+    "NotFoundMessage": "The requested item was not found.",
+    "BackToList": "Back to List",
+    "Yes": "Yes",
+    "No": "No"
+  },
+  "Errors": {
+    "Required": "is required.",
+    "Email": "Enter a valid email.",
+    "MinLength": "Minimum {{length}} characters required.",
+    "Invalid": "Invalid input."
+  },
+  "Header": { "Home": "Home", "Profile": "Profile" },
+  "Footer": {
+    "Message": "System developed by Eng.Ahmed El-Gendy inc."
+  },
+  "Home": {
+    "Welcome": "Welcome",
+    "Categories": {
+      "Rental": "Rental",
+      "Sales": "Sales",
+      "Dressmaking": "Dressmaking",
+      "RentalDescription": "Rental",
+      "SalesDescription": "Sales",
+      "DressmakingDescription": "Dressmaking",
+      "Dresses": "Dresses",
+      "DressesDescription": "Dresses"
+    }
+  },
+  "Rental": {
+    "CustomerName": "Customer Name",
+    "CustomerPhone": "Customer Phone",
+    "Deposit": "Deposit",
+    "Cost": "Cost",
+    "BookingDate": "Invoice Date",
+    "DeliveryDate": "Delivery Date",
+    "ReturnDate": "Return Date",
+    "Status": "Status",
+    "Unpaid": "Unpaid",
+    "Paid": "Paid",
+    "Cancelled": "Cancelled",
+    "SelectStatus": "Select Status",
+    "StatusRequired": "Status is required",
+    "Submit": "Submit",
+    "AddRentalInvoice": "Add Invoice",
+    "AddRentalInvoiceDescription": "Add Invoice",
+    "Invoices": "Invoices",
+    "InvoicesDescription": "Invoices"
+  },
+  "Dress": {
+    "Cards": {
+      "AddDress": "Add Dress",
+      "AddDressDescription": "Add Dress",
+      "Dresses": "Dresses",
+      "DressesDescription": "Dresses"
+    },
+    "SizesAndColors": "Sizes And Colors",
+    "Review": "Review",
+    "RemoveSize": "Remove Size",
+    "RemoveColor": "Remove Color",
+    "AddColor": "Add Color",
+    "AddSize": "Add Size"
+  }
+}

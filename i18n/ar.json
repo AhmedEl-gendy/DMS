@@ -37,7 +37,8 @@
     "NotFoundMessage": "لم يتم العثور على العنصر المطلوب.",
     "BackToList": "العودة إلى القائمة",
     "Yes": "نعم",
-    "No": "لا"
+    "No": "لا",
+    "Actions": "الإجراءات"
   },
   "Errors": {
     "Required": "مطلوب.",
@@ -94,6 +95,7 @@
     "RemoveSize": "حذف المقاس",
     "RemoveColor": "حذف اللون",
     "AddColor": "إضافة لون",
-    "AddSize": "إضافة مقاس"
+    "AddSize": "إضافة مقاس",
+    "AddNewDress": "إضافة فستان جديد"
   }
 }

@@ -37,7 +37,8 @@
     "NotFoundMessage": "The requested item was not found.",
     "BackToList": "Back to List",
     "Yes": "Yes",
-    "No": "No"
+    "No": "No",
+    "Actions": "Actions"
   },
   "Errors": {
     "Required": "is required.",
@@ -94,6 +95,7 @@
     "RemoveSize": "Remove Size",
     "RemoveColor": "Remove Color",
     "AddColor": "Add Color",
-    "AddSize": "Add Size"
+    "AddSize": "Add Size",
+    "AddNewDress": "Add New Dress"
   }
 }
